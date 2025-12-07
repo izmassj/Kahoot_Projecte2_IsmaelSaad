@@ -1,0 +1,59 @@
+{
+    "khajotName" : "Questionario sobre Ismael",
+    "description" : "Conoce mejor a tu marroquí de confianza.",
+    "questions" : 
+    [
+        {
+            "question" : "¿Cómo se llama Ismael?",
+            "time" : 20,
+            "image" : "",
+            "answers" : 
+            [
+                "Lemasi",
+                "Ismael",
+                "Isamel",
+                "Israel"
+            ],
+            "rightAnswerIndex" : 1
+        },   
+        {
+            "question" : "¿De que color es su pelo?",
+            "time" : 20,
+            "image" : "",
+            "answers" : 
+            [
+                "Sofa y medio",
+                "Turquesa",
+                "Castaño MUY oscuro",
+                "Negro"
+            ],
+            "rightAnswerIndex" : 3
+        },
+        {
+            "question" : "¿Qué es?",
+            "time" : 20,
+            "image" : "",
+            "answers" : 
+            [
+                "Marroqui",
+                "Narizón",
+                "Despistado",
+                "Todas son correctas"
+            ],
+            "rightAnswerIndex" : 3
+        },
+                {
+            "question" : "¿Qué es lo que SIEMPRE tiene?",
+            "time" : 20,
+            "image" : "",
+            "answers" : 
+            [
+                "Cualquier prenda de color negro",
+                "Ganas de vivir",
+                "Motivación",
+                "Entregas a tiempo"
+            ],
+            "rightAnswerIndex" : 0
+        } 
+    ]
+}
